@@ -1,0 +1,30 @@
+:root {
+    --cor-primaria: #4caf50;
+    --cor-primaria-light: #80e27e;
+    --cor-primaria-dark: #087f23;
+    --cor-secundaria: #e8f5e9;
+    --cor-secundaria-light: #ffffff;
+    --cor-secundaria-dark: #b6c2b7;
+    --color-texto: #000000;
+  }
+
+.tituloSite {
+    font-size: 4em;
+    margin: 0.5em auto;
+}
+
+.sloganSite {
+    font-size: 1em;
+    text-align: center;
+}
+
+header {
+    background: var(--cor-primaria-dark);
+    color: var(--cor-secundaria-light);
+    text-align: center;
+    padding: 30px 120px;
+    overflow: hidden;
+    margin-bottom: 2em;
+  
+    clip-path: ellipse(100% 55% at 48% 44%);
+}
