@@ -12,10 +12,10 @@ function Menu() {
                 <FormControl type="text" placeholder="Search" className="mr-sm-2"/>
                 <Button variant="light">Search</Button>
                 </Form>
-                <Nav className="ml-auto" style={{fontSize: "1.2em"}}>
-                <Nav.Link href="#quem-somos">Quem somos</Nav.Link>
-                <Nav.Link href="#cadastro">Cadastro</Nav.Link>
-                <Nav.Link href="#login">Login</Nav.Link>
+                <Nav className="ml-auto" style={{fontSize: "1.5em"}}>
+                    <Nav.Link href="#quem-somos">Quem somos</Nav.Link>
+                    <Nav.Link href="#cadastro">Cadastro</Nav.Link>
+                    <Nav.Link href="#login">Login</Nav.Link>
                 </Nav>
                 
             </Navbar.Collapse>

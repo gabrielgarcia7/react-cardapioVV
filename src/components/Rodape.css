@@ -1,0 +1,31 @@
+:root {
+    --cor-primaria: #4caf50;
+    --cor-primaria-light: #80e27e;
+    --cor-primaria-dark: #087f23;
+    --cor-secundaria: #e8f5e9;
+    --cor-secundaria-light: #ffffff;
+    --cor-secundaria-dark: #b6c2b7;
+    --color-texto: #000000;
+}
+
+footer {
+    background: var(--cor-primaria-dark);
+    text-align: center;
+    font-size: 20px;
+    padding-top: 1em;
+    padding-bottom: 0.2em;
+    color: #FFF;
+  }
+
+a.rodape {
+    display: inline-block;
+    color: #FFF;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 25px;
+}
+a.rodape:hover {
+    color: #b6c2b7;
+    text-decoration: none;
+}
+
