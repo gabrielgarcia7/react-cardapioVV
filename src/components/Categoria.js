@@ -4,10 +4,10 @@ import {Button, Card} from 'react-bootstrap'
 function Categoria(props) {
     return (
         
-    <Card className="text-center mx-4" style={{width: '18rem', background: "#087f23"}}>
-            <Card.Img variant="top" src={require('../imgs/' + props.img + '.png')} />
+    <Card className="text-center mx-4" style={{width: '18rem', background: "#087f23", borderRadius: "1em"}} border="light">
+            <Card.Img variant="top" src={require('../imgs/' + props.img + '.jpg')} style={{borderRadius: "0.9em 0.9em 0 0"}}/>
             <Card.Body>
-                <Card.Title style={{color: "white"}}>{props.nome}</Card.Title>
+                <Card.Title style={{color: "white"}}><h3><strong>{props.nome}</strong></h3></Card.Title>
                 <Card.Text style={{color: "white"}}>
                     Lorem ipsum dolor amet...
                 </Card.Text>

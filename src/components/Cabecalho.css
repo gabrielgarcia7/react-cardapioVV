@@ -9,20 +9,33 @@
   }
 
 .tituloSite {
-    font-size: 4em;
-    margin: 0.5em auto;
+    margin: 1em 0 0.5em 0;
 }
+
+
+@media screen and (min-width: 701px) {
+    .tituloSite {
+      font-size: 80px;
+    }
+}
+  
+  @media screen and (max-width: 700px) {
+    .tituloSite {
+      font-size: 50px;
+    }
+  }
 
 .sloganSite {
     font-size: 1em;
     text-align: center;
+    margin: 2em 1em;
 }
 
 header {
     background: var(--cor-primaria-dark);
     color: var(--cor-secundaria-light);
     text-align: center;
-    padding: 30px 120px;
+    padding: 30px auto;
     overflow: hidden;
     margin-bottom: 2em;
   
