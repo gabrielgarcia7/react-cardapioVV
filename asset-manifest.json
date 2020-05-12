@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-cardapioVV/static/css/main.e5093e7c.chunk.css",
-    "main.js": "/react-cardapioVV/static/js/main.e052d097.chunk.js",
-    "main.js.map": "/react-cardapioVV/static/js/main.e052d097.chunk.js.map",
+    "main.css": "/react-cardapioVV/static/css/main.b0643977.chunk.css",
+    "main.js": "/react-cardapioVV/static/js/main.ddfbc49f.chunk.js",
+    "main.js.map": "/react-cardapioVV/static/js/main.ddfbc49f.chunk.js.map",
     "runtime-main.js": "/react-cardapioVV/static/js/runtime-main.0058a001.js",
     "runtime-main.js.map": "/react-cardapioVV/static/js/runtime-main.0058a001.js.map",
     "static/css/2.89f067aa.chunk.css": "/react-cardapioVV/static/css/2.89f067aa.chunk.css",
-    "static/js/2.1f7691aa.chunk.js": "/react-cardapioVV/static/js/2.1f7691aa.chunk.js",
-    "static/js/2.1f7691aa.chunk.js.map": "/react-cardapioVV/static/js/2.1f7691aa.chunk.js.map",
+    "static/js/2.fa52852c.chunk.js": "/react-cardapioVV/static/js/2.fa52852c.chunk.js",
+    "static/js/2.fa52852c.chunk.js.map": "/react-cardapioVV/static/js/2.fa52852c.chunk.js.map",
     "index.html": "/react-cardapioVV/index.html",
-    "precache-manifest.ede02887d79b9fa5a13724cbd7f9f57d.js": "/react-cardapioVV/precache-manifest.ede02887d79b9fa5a13724cbd7f9f57d.js",
+    "precache-manifest.62c24c1d634c70a5d5a9677900c697a2.js": "/react-cardapioVV/precache-manifest.62c24c1d634c70a5d5a9677900c697a2.js",
     "service-worker.js": "/react-cardapioVV/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/react-cardapioVV/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.e5093e7c.chunk.css.map": "/react-cardapioVV/static/css/main.e5093e7c.chunk.css.map",
-    "static/js/2.1f7691aa.chunk.js.LICENSE.txt": "/react-cardapioVV/static/js/2.1f7691aa.chunk.js.LICENSE.txt",
+    "static/css/main.b0643977.chunk.css.map": "/react-cardapioVV/static/css/main.b0643977.chunk.css.map",
+    "static/js/2.fa52852c.chunk.js.LICENSE.txt": "/react-cardapioVV/static/js/2.fa52852c.chunk.js.LICENSE.txt",
     "static/media/Cabecalho.css": "/react-cardapioVV/static/media/bell_pepper.80f41fe3.png",
     "static/media/bolo.jpg": "/react-cardapioVV/static/media/bolo.71f05b83.jpg",
     "static/media/frutas.jpg": "/react-cardapioVV/static/media/frutas.91ebd12e.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.0058a001.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.1f7691aa.chunk.js",
-    "static/css/main.e5093e7c.chunk.css",
-    "static/js/main.e052d097.chunk.js"
+    "static/js/2.fa52852c.chunk.js",
+    "static/css/main.b0643977.chunk.css",
+    "static/js/main.ddfbc49f.chunk.js"
   ]
 }
