@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b60bd16532a429d5b7ee799c2073eef6",
+    "revision": "c04596c054b7208b8d48cd811d8ae566",
     "url": "/react-cardapioVV/index.html"
   },
   {
-    "revision": "b6196fb5a596cfe71d5a",
+    "revision": "07e181913ba75a4a97d1",
     "url": "/react-cardapioVV/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "83417b132daef4317dc5",
+    "revision": "2e6e98f27386221312e5",
     "url": "/react-cardapioVV/static/css/main.d42baeb8.chunk.css"
   },
   {
-    "revision": "b6196fb5a596cfe71d5a",
-    "url": "/react-cardapioVV/static/js/2.23af19ea.chunk.js"
+    "revision": "07e181913ba75a4a97d1",
+    "url": "/react-cardapioVV/static/js/2.171c0534.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react-cardapioVV/static/js/2.23af19ea.chunk.js.LICENSE.txt"
+    "url": "/react-cardapioVV/static/js/2.171c0534.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83417b132daef4317dc5",
-    "url": "/react-cardapioVV/static/js/main.4e7f2de5.chunk.js"
+    "revision": "2e6e98f27386221312e5",
+    "url": "/react-cardapioVV/static/js/main.5b90b743.chunk.js"
   },
   {
     "revision": "354859cb163c721e9da2",

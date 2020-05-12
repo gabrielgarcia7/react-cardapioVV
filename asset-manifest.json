@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-cardapioVV/static/css/main.d42baeb8.chunk.css",
-    "main.js": "/react-cardapioVV/static/js/main.4e7f2de5.chunk.js",
-    "main.js.map": "/react-cardapioVV/static/js/main.4e7f2de5.chunk.js.map",
+    "main.js": "/react-cardapioVV/static/js/main.5b90b743.chunk.js",
+    "main.js.map": "/react-cardapioVV/static/js/main.5b90b743.chunk.js.map",
     "runtime-main.js": "/react-cardapioVV/static/js/runtime-main.0058a001.js",
     "runtime-main.js.map": "/react-cardapioVV/static/js/runtime-main.0058a001.js.map",
     "static/css/2.89f067aa.chunk.css": "/react-cardapioVV/static/css/2.89f067aa.chunk.css",
-    "static/js/2.23af19ea.chunk.js": "/react-cardapioVV/static/js/2.23af19ea.chunk.js",
-    "static/js/2.23af19ea.chunk.js.map": "/react-cardapioVV/static/js/2.23af19ea.chunk.js.map",
+    "static/js/2.171c0534.chunk.js": "/react-cardapioVV/static/js/2.171c0534.chunk.js",
+    "static/js/2.171c0534.chunk.js.map": "/react-cardapioVV/static/js/2.171c0534.chunk.js.map",
     "index.html": "/react-cardapioVV/index.html",
-    "precache-manifest.f7b3531b1e32a4e880b8f407d570294d.js": "/react-cardapioVV/precache-manifest.f7b3531b1e32a4e880b8f407d570294d.js",
+    "precache-manifest.7396ee2d40b1b7097b47f10a3fc895b8.js": "/react-cardapioVV/precache-manifest.7396ee2d40b1b7097b47f10a3fc895b8.js",
     "service-worker.js": "/react-cardapioVV/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/react-cardapioVV/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.d42baeb8.chunk.css.map": "/react-cardapioVV/static/css/main.d42baeb8.chunk.css.map",
-    "static/js/2.23af19ea.chunk.js.LICENSE.txt": "/react-cardapioVV/static/js/2.23af19ea.chunk.js.LICENSE.txt",
+    "static/js/2.171c0534.chunk.js.LICENSE.txt": "/react-cardapioVV/static/js/2.171c0534.chunk.js.LICENSE.txt",
     "static/media/Cabecalho.css": "/react-cardapioVV/static/media/bell_pepper.80f41fe3.png",
     "static/media/bolo.jpg": "/react-cardapioVV/static/media/bolo.71f05b83.jpg",
     "static/media/frutas.jpg": "/react-cardapioVV/static/media/frutas.91ebd12e.jpg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.0058a001.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.23af19ea.chunk.js",
+    "static/js/2.171c0534.chunk.js",
     "static/css/main.d42baeb8.chunk.css",
-    "static/js/main.4e7f2de5.chunk.js"
+    "static/js/main.5b90b743.chunk.js"
   ]
 }

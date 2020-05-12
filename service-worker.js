@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-cardapioVV/precache-manifest.f7b3531b1e32a4e880b8f407d570294d.js"
+  "/react-cardapioVV/precache-manifest.7396ee2d40b1b7097b47f10a3fc895b8.js"
 );
 
 self.addEventListener('message', (event) => {
