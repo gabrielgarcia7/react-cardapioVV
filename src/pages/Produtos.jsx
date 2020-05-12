@@ -1,5 +1,6 @@
 import React from 'react'
 import Menu from '../components/Menu'
+import ProdutosMain from '../components/ProdutosMain'
 import Rodape from '../components/Rodape'
 
 
@@ -8,7 +9,7 @@ const Produtos = () => {
         <div>
         <Menu />
         
-        <h1 style={{textAlign: 'center', padding: '20% 0'}}>Produtos</h1>
+        <ProdutosMain />
   
         <Rodape />
   

@@ -1,0 +1,23 @@
+.imgProdutoMain {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+  }
+
+  .produtoMain {
+      padding: 1em 0.5em 1em 0.5em;
+      margin: 1em;
+      background: var(--cor-secundaria);
+      border-radius: 20px;
+      width: 300px;
+      text-align: center;
+  }
+
+  .produtoMain h3 {
+      text-align: center;
+      padding-top: 1em;
+      font-size: 24px;
+  }

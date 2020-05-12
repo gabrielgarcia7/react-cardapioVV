@@ -54,14 +54,15 @@
         flex-basis: 40%; /* change this value for each breakpoint*/
     }
     .caixaPesquisa {
-        width: 75%;
+        width: 70%;
     }
 }
 
+    
 @media (max-width: 700px) {
     .cardDeck .card {
         display: block;
-        flex-basis: 75%; /* change this value for each breakpoint*/
+        flex-basis: 85%; /* change this value for each breakpoint*/
     }
     
 }
