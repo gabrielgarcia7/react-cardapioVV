@@ -1,0 +1,7 @@
+.quemSomosConteudo {
+    padding: 2em 5em;
+    text-align: justify;
+    display: flex;
+    flex-flow: column;
+    flex: 200;
+}

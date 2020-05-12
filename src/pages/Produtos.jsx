@@ -3,12 +3,12 @@ import Menu from '../components/Menu'
 import Rodape from '../components/Rodape'
 
 
-const NotFoundPage = () => {
+const Produtos = () => {
     return (
         <div>
         <Menu />
         
-        <h1 style={{textAlign: 'center', padding: '20% 0'}}>404<br/>Página não encontrada :/</h1>
+        <h1 style={{textAlign: 'center', padding: '20% 0'}}>Produtos</h1>
   
         <Rodape />
   
@@ -16,4 +16,4 @@ const NotFoundPage = () => {
     )
 }
 
-export default NotFoundPage
+export default Produtos

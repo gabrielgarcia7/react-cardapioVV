@@ -1,0 +1,11 @@
+.linksMenu {
+    color: white;
+    display: flex;
+    margin: auto 0;
+    padding: 0 2em;
+}
+
+.linksMenu:hover {
+    color: #b6c2b7;
+    text-decoration: none;
+}

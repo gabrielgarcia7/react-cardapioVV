@@ -5,20 +5,24 @@ import QuemSomos from './pages/QuemSomos'
 import Cadastro from './pages/Cadastro'
 import Login from './pages/Login'
 import NotFound from './pages/NotFound'
+import Produtos from './pages/Produtos'
 
 
-import {Route, Switch, Redirect} from 'react-router-dom'
+import {Route, HashRouter, Redirect, BrowserRouter, Switch} from 'react-router-dom'
 
 function App() {
   return (
-    <Switch>
-      <Route exact path='/react-cardapioVV/' component={PaginaInicial} />
-      <Route exact path='/react-cardapioVV/quem-somos' component={QuemSomos} />
-      <Route exact path='/react-cardapioVV/cadastro' component={Cadastro} />
-      <Route exact path='/react-cardapioVV/login' component={Login} />
-      <Route exact path='/react-cardapioVV/404' component={NotFound} />
-      <Redirect to='/react-cardapioVV/404'/>
-    </Switch>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Switch>
+        <Route exact path='/' component={PaginaInicial} />
+        <Route exact path='/quem-somos' component={QuemSomos} />
+        <Route exact path='/cadastro' component={Cadastro} />
+        <Route exact path='/login' component={Login} />
+        <Route exact path='/produtos' component={Produtos} />
+        <Route exact path='/404' component={NotFound} />
+        <Redirect to='/404'/>
+      </Switch>
+    </BrowserRouter>
   );
 }
 

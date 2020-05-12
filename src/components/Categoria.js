@@ -1,5 +1,6 @@
 import React from 'react'
-import {Button, Card} from 'react-bootstrap'
+import {Card} from 'react-bootstrap'
+import {Link} from 'react-router-dom'
 
 function Categoria(props) {
     return (
@@ -12,7 +13,8 @@ function Categoria(props) {
                     <p>Lorem ipsum dolor amet...</p>
                 </Card.Text>
                 {/* <Button variant="light">Confira as melhores opções!</Button> */}
-                <a href={props.nome} class="stretched-link"></a>
+                
+                <Link className="linksMenu" to="/produtos" class="stretched-link"></Link>
             </Card.Body>
     </Card>
 

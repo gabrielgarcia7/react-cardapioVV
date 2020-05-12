@@ -1,17 +1,17 @@
 import React from 'react'
 import Menu from '../components/Menu'
 import Rodape from '../components/Rodape'
+import QuemSomosConteudo from '../components/QuemSomosConteudo'
 
 
 const AboutUs = () => {
     return (
-        <div>
+        <div style={{}}>
         <Menu />
-        
-        <h1 style={{textAlign: 'center', padding: '20% 0'}}>Quem somos</h1>
-  
+
+        <QuemSomosConteudo />
+
         <Rodape />
-  
       </div>          
     )
 }
