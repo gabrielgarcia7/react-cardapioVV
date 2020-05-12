@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/react-cardapioVV/static/css/main.5b22eb86.chunk.css",
-    "main.js": "/react-cardapioVV/static/js/main.f70f1e59.chunk.js",
-    "main.js.map": "/react-cardapioVV/static/js/main.f70f1e59.chunk.js.map",
+    "main.css": "/react-cardapioVV/static/css/main.1c2d83cb.chunk.css",
+    "main.js": "/react-cardapioVV/static/js/main.61d6121b.chunk.js",
+    "main.js.map": "/react-cardapioVV/static/js/main.61d6121b.chunk.js.map",
     "runtime-main.js": "/react-cardapioVV/static/js/runtime-main.0058a001.js",
     "runtime-main.js.map": "/react-cardapioVV/static/js/runtime-main.0058a001.js.map",
     "static/css/2.89f067aa.chunk.css": "/react-cardapioVV/static/css/2.89f067aa.chunk.css",
-    "static/js/2.9cc117cd.chunk.js": "/react-cardapioVV/static/js/2.9cc117cd.chunk.js",
-    "static/js/2.9cc117cd.chunk.js.map": "/react-cardapioVV/static/js/2.9cc117cd.chunk.js.map",
+    "static/js/2.fa52852c.chunk.js": "/react-cardapioVV/static/js/2.fa52852c.chunk.js",
+    "static/js/2.fa52852c.chunk.js.map": "/react-cardapioVV/static/js/2.fa52852c.chunk.js.map",
     "index.html": "/react-cardapioVV/index.html",
-    "precache-manifest.534dc364fbb783d6ee9d9d36d4793860.js": "/react-cardapioVV/precache-manifest.534dc364fbb783d6ee9d9d36d4793860.js",
+    "precache-manifest.62a30c2a85841e50f3c5bdd2b4c4252a.js": "/react-cardapioVV/precache-manifest.62a30c2a85841e50f3c5bdd2b4c4252a.js",
     "service-worker.js": "/react-cardapioVV/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/react-cardapioVV/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.5b22eb86.chunk.css.map": "/react-cardapioVV/static/css/main.5b22eb86.chunk.css.map",
-    "static/js/2.9cc117cd.chunk.js.LICENSE.txt": "/react-cardapioVV/static/js/2.9cc117cd.chunk.js.LICENSE.txt",
+    "static/css/main.1c2d83cb.chunk.css.map": "/react-cardapioVV/static/css/main.1c2d83cb.chunk.css.map",
+    "static/js/2.fa52852c.chunk.js.LICENSE.txt": "/react-cardapioVV/static/js/2.fa52852c.chunk.js.LICENSE.txt",
+    "static/media/Cabecalho.css": "/react-cardapioVV/static/media/bell_pepper.80f41fe3.png",
     "static/media/bolo.jpg": "/react-cardapioVV/static/media/bolo.71f05b83.jpg",
     "static/media/frutas.jpg": "/react-cardapioVV/static/media/frutas.91ebd12e.jpg",
     "static/media/legumes_verduras.jpg": "/react-cardapioVV/static/media/legumes_verduras.a29f260a.jpg",
-    "static/media/pratos.jpg": "/react-cardapioVV/static/media/pratos.16a325a1.jpg"
+    "static/media/pratos.jpg": "/react-cardapioVV/static/media/pratos.16a325a1.jpg",
+    "static/media/search.svg": "/react-cardapioVV/static/media/search.bac34221.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0058a001.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.9cc117cd.chunk.js",
-    "static/css/main.5b22eb86.chunk.css",
-    "static/js/main.f70f1e59.chunk.js"
+    "static/js/2.fa52852c.chunk.js",
+    "static/css/main.1c2d83cb.chunk.css",
+    "static/js/main.61d6121b.chunk.js"
   ]
 }

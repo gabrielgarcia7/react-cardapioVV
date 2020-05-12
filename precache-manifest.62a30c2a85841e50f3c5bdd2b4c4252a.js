@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac5e219408f7a3fd00a22688f7a5ff68",
+    "revision": "2f08cbaa3126c1066bb357d70236b029",
     "url": "/react-cardapioVV/index.html"
   },
   {
-    "revision": "0eb6ca33cdc3ab7e1fbb",
+    "revision": "4991d58a3ff525440f6b",
     "url": "/react-cardapioVV/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "ab0dc3fd6c8118169614",
-    "url": "/react-cardapioVV/static/css/main.5b22eb86.chunk.css"
+    "revision": "6932d0672a6fc1e85d5a",
+    "url": "/react-cardapioVV/static/css/main.1c2d83cb.chunk.css"
   },
   {
-    "revision": "0eb6ca33cdc3ab7e1fbb",
-    "url": "/react-cardapioVV/static/js/2.9cc117cd.chunk.js"
+    "revision": "4991d58a3ff525440f6b",
+    "url": "/react-cardapioVV/static/js/2.fa52852c.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/react-cardapioVV/static/js/2.9cc117cd.chunk.js.LICENSE.txt"
+    "url": "/react-cardapioVV/static/js/2.fa52852c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab0dc3fd6c8118169614",
-    "url": "/react-cardapioVV/static/js/main.f70f1e59.chunk.js"
+    "revision": "6932d0672a6fc1e85d5a",
+    "url": "/react-cardapioVV/static/js/main.61d6121b.chunk.js"
   },
   {
     "revision": "354859cb163c721e9da2",
     "url": "/react-cardapioVV/static/js/runtime-main.0058a001.js"
+  },
+  {
+    "revision": "80f41fe33167c3a8583631253aea8da1",
+    "url": "/react-cardapioVV/static/media/bell_pepper.80f41fe3.png"
   },
   {
     "revision": "71f05b834749c20b7e83aea326907ae0",
@@ -42,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16a325a1b91699dc7a04d9150aec754b",
     "url": "/react-cardapioVV/static/media/pratos.16a325a1.jpg"
+  },
+  {
+    "revision": "bac34221c89724d5d4aa197f411e0542",
+    "url": "/react-cardapioVV/static/media/search.bac34221.svg"
   }
 ]);
