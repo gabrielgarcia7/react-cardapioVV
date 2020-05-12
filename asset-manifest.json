@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-cardapioVV/static/css/main.6b4f5cec.chunk.css",
-    "main.js": "/react-cardapioVV/static/js/main.d740e264.chunk.js",
-    "main.js.map": "/react-cardapioVV/static/js/main.d740e264.chunk.js.map",
+    "main.js": "/react-cardapioVV/static/js/main.430e6308.chunk.js",
+    "main.js.map": "/react-cardapioVV/static/js/main.430e6308.chunk.js.map",
     "runtime-main.js": "/react-cardapioVV/static/js/runtime-main.0058a001.js",
     "runtime-main.js.map": "/react-cardapioVV/static/js/runtime-main.0058a001.js.map",
     "static/css/2.89f067aa.chunk.css": "/react-cardapioVV/static/css/2.89f067aa.chunk.css",
     "static/js/2.01169af7.chunk.js": "/react-cardapioVV/static/js/2.01169af7.chunk.js",
     "static/js/2.01169af7.chunk.js.map": "/react-cardapioVV/static/js/2.01169af7.chunk.js.map",
     "index.html": "/react-cardapioVV/index.html",
-    "precache-manifest.365efb1addf07cc03a5209d890b74abf.js": "/react-cardapioVV/precache-manifest.365efb1addf07cc03a5209d890b74abf.js",
+    "precache-manifest.b5f50ef4d01499d59300afbfa23469bf.js": "/react-cardapioVV/precache-manifest.b5f50ef4d01499d59300afbfa23469bf.js",
     "service-worker.js": "/react-cardapioVV/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/react-cardapioVV/static/css/2.89f067aa.chunk.css.map",
     "static/css/main.6b4f5cec.chunk.css.map": "/react-cardapioVV/static/css/main.6b4f5cec.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.01169af7.chunk.js",
     "static/css/main.6b4f5cec.chunk.css",
-    "static/js/main.d740e264.chunk.js"
+    "static/js/main.430e6308.chunk.js"
   ]
 }
