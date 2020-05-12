@@ -6,10 +6,11 @@
     --cor-secundaria-light: #ffffff;
     --cor-secundaria-dark: #b6c2b7;
     --color-texto: #000000;
-  }
+}
+
 
 .tituloSite {
-    margin: 1em 0 0.5em 0;
+    margin: 2em 0 0 0;
 }
 
 
@@ -26,18 +27,64 @@
   }
 
 .sloganSite {
-    font-size: 1em;
+    font-size: 1.5em;
     text-align: center;
-    margin: 2em 1em 3.5em 1em;
+    margin: 0.5em 1em 3.5em 1em;
 }
 
 header {
-    background: var(--cor-primaria-dark);
     color: var(--cor-secundaria-light);
     text-align: center;
     padding: 30px auto;
     overflow: hidden;
     margin-bottom: 2em;
+    background: url(../imgs/bell_pepper.png);
+    background-repeat: no-repeat;
+    background-color: var(--cor-primaria-dark);
+    background-position: 50% 50%;
+    background-size: contain;
   
     clip-path: ellipse(100% 55% at 48% 44%);
+}
+
+.titulo {
+  float: right;
+  width: 100%;
+}
+
+.imgLogo {
+  width: 80%;
+  max-width: 350px;
+}
+
+#pesquisa {
+  background-color: var(--cor-secundaria);
+  border-radius: 30px;
+  width: 400px;
+  display: inline-flex;
+  padding: 3px 3px;
+  margin-left: 2em;
+  float: right;  
+}
+
+#pesquisa:focus, #txtBusca:focus {
+  outline: none;
+}
+
+#txtBusca {
+  background-color: transparent;
+  padding-left: 15px;
+  font-style: italic;
+  font-size: 14pt;
+  border: none;
+  flex: 1;
+}
+
+#txtBusca:focus {
+  color: var(--cor-primaria-dark);
+}
+
+#btnBusca {
+  width: 10%;
+  padding-right: 10px;
 }

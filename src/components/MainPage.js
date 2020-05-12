@@ -14,14 +14,16 @@ function MainPage() {
                     O que deseja buscar hoje?</h1>
             
 
-            <CardDeck className='mx-auto mt-100'>
+            {/* <CardDeck className='mx-auto mt-100'> */}
+            <div className="cardDeck">
 
                 <Categoria nome="Bolos" img="bolo"/>
                 <Categoria nome="Frutas" img="frutas"/>
                 <Categoria nome="Legumes e Verduras" img="legumes_verduras"/>
                 <Categoria nome="Pratos prontos" img="pratos"/>
+            </div>
 
-            </CardDeck>
+            {/* </CardDeck> */}
       </div>
     )
 }

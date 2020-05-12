@@ -2,8 +2,7 @@ import React from 'react'
 import './Rodape.css'
 
 function Rodape() {
-    return (
-        
+    return (        
 
         <footer>
             <a class="rodape" href="#politica_privacidade">Política de privacidade</a>

@@ -1,3 +1,33 @@
 .mainPage {
-    padding: 2em;
+    padding: 2em 0 2em 0;
+}
+
+.cardDeck {
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row wrap; 
+    align-items: stretch;
+    justify-content: center;
+    flex-basis: 20%;
+}
+
+@media (max-width: 2000px) {
+    .cardDeck .card {
+        display: block;
+        flex-basis: 20%; /* change this value for each breakpoint*/
+    }
+}
+
+@media (max-width: 1100px) {
+    .cardDeck .card {
+        display: block;
+        flex-basis: 40%; /* change this value for each breakpoint*/
+    }
+}
+
+@media (max-width: 700px) {
+    .cardDeck .card {
+        display: block;
+        flex-basis: 75%; /* change this value for each breakpoint*/
+    }
 }
