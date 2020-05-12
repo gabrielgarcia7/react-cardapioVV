@@ -10,32 +10,20 @@
 
 
 .tituloSite {
-    margin: 2em 0 0 0;
+    margin: 3em 0 0 0;
 }
-
-
-@media screen and (min-width: 701px) {
-    .tituloSite {
-      font-size: 80px;
-    }
-}
-  
-  @media screen and (max-width: 700px) {
-    .tituloSite {
-      font-size: 50px;
-    }
-  }
 
 .sloganSite {
     font-size: 1.5em;
     text-align: center;
-    margin: 0.5em 1em 3.5em 1em;
+    margin: 0.5em 1em 2em 1em;
 }
 
 header {
     color: var(--cor-secundaria-light);
     text-align: center;
     padding: 30px auto;
+    padding-bottom: 4em;
     overflow: hidden;
     margin-bottom: 2em;
     background: url(../imgs/bell_pepper.png);
@@ -55,4 +43,20 @@ header {
 .imgLogo {
   width: 80%;
   max-width: 350px;
+}
+
+@media screen and (min-width: 701px) {
+  .tituloSite {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .tituloSite {
+    font-size: 50px;
+  }
+
+  header {
+    padding-bottom: 0;
+  }
 }

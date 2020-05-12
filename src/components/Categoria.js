@@ -9,7 +9,7 @@ function Categoria(props) {
             <Card.Body>
                 <Card.Title style={{color: "white"}}><h3><strong>{props.nome}</strong></h3></Card.Title>
                 <Card.Text style={{color: "white"}}>
-                    Lorem ipsum dolor amet...
+                    <p>Lorem ipsum dolor amet...</p>
                 </Card.Text>
                 {/* <Button variant="light">Confira as melhores opções!</Button> */}
                 <a href={props.nome} class="stretched-link"></a>

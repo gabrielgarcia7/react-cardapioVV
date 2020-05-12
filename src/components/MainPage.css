@@ -15,13 +15,30 @@
     background-image: url("../imgs/search.svg");
     background-repeat: no-repeat;
     background-position: 98% 0;
+    background-size: auto;
     margin: auto;
     width: 40%;
-    padding: 10px 0 50px 0;
+    padding: 8px 80px 8px 30px;
     background-color: var(--cor-secundaria);
     
     border-radius: 30px;
     margin-bottom: 2em;
+}
+
+#txtBusca:focus {
+    outline: none;
+}
+  
+#txtBusca {
+    background-color: transparent;
+    width: 100%;
+    font-style: italic;
+    font-size: 16pt;
+    border: none;
+}
+
+#txtBusca:focus {
+    color: var(--cor-primaria-dark);
 }
 
 @media (max-width: 2000px) {
@@ -48,25 +65,3 @@
     }
     
 }
-
-
-
-  
-#txtBusca:focus {
-    outline: none;
-}
-  
-#txtBusca {
-    background-color: transparent;
-    padding-left: 30px;
-    width: 96%;
-    font-style: italic;
-    font-size: 20pt;
-    border: none;
-    float: left;
-}
-
-#txtBusca:focus {
-    color: var(--cor-primaria-dark);
-}
-
