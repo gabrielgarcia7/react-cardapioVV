@@ -56,35 +56,3 @@ header {
   width: 80%;
   max-width: 350px;
 }
-
-#pesquisa {
-  background-color: var(--cor-secundaria);
-  border-radius: 30px;
-  width: 400px;
-  display: inline-flex;
-  padding: 3px 3px;
-  margin-left: 2em;
-  float: right;  
-}
-
-#pesquisa:focus, #txtBusca:focus {
-  outline: none;
-}
-
-#txtBusca {
-  background-color: transparent;
-  padding-left: 15px;
-  font-style: italic;
-  font-size: 14pt;
-  border: none;
-  flex: 1;
-}
-
-#txtBusca:focus {
-  color: var(--cor-primaria-dark);
-}
-
-#btnBusca {
-  width: 10%;
-  padding-right: 10px;
-}

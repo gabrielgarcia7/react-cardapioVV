@@ -12,8 +12,13 @@ function MainPage() {
                 paddingBottom: "1em"
                 }}>
                     O que deseja buscar hoje?</h1>
-            
 
+            <div className="caixaPesquisa">
+                <input type="text" id="txtBusca" placeholder="Pesquisar..." />
+                {/* <img src={require("../imgs/search.svg")} id="btnBusca" alt="Buscar" /> */}
+            </div>
+{/*             
+            
             {/* <CardDeck className='mx-auto mt-100'> */}
             <div className="cardDeck">
 

@@ -11,6 +11,19 @@
     flex-basis: 20%;
 }
 
+.caixaPesquisa {
+    background-image: url("../imgs/search.svg");
+    background-repeat: no-repeat;
+    background-position: 98% 0;
+    margin: auto;
+    width: 40%;
+    padding: 10px 0 50px 0;
+    background-color: var(--cor-secundaria);
+    
+    border-radius: 30px;
+    margin-bottom: 2em;
+}
+
 @media (max-width: 2000px) {
     .cardDeck .card {
         display: block;
@@ -23,6 +36,9 @@
         display: block;
         flex-basis: 40%; /* change this value for each breakpoint*/
     }
+    .caixaPesquisa {
+        width: 75%;
+    }
 }
 
 @media (max-width: 700px) {
@@ -30,4 +46,27 @@
         display: block;
         flex-basis: 75%; /* change this value for each breakpoint*/
     }
+    
 }
+
+
+
+  
+#txtBusca:focus {
+    outline: none;
+}
+  
+#txtBusca {
+    background-color: transparent;
+    padding-left: 30px;
+    width: 96%;
+    font-style: italic;
+    font-size: 20pt;
+    border: none;
+    float: left;
+}
+
+#txtBusca:focus {
+    color: var(--cor-primaria-dark);
+}
+
