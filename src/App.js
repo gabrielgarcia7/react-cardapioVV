@@ -18,7 +18,7 @@ function App() {
         <Route exact path='/quem-somos' component={QuemSomos} />
         <Route exact path='/cadastro' component={Cadastro} />
         <Route exact path='/login' component={Login} />
-        <Route exact path='/produtos' component={Produtos} />
+        <Route exact path='/produtos/:page?' component={Produtos} />
         <Route exact path='/404' component={NotFound} />
         <Redirect to='/404'/>
       </Switch>

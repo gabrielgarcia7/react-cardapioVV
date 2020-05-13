@@ -4,12 +4,12 @@ import ProdutosMain from '../components/ProdutosMain'
 import Rodape from '../components/Rodape'
 
 
-const Produtos = () => {
+const Produtos = ({ match }) => {
     return (
         <div>
         <Menu />
         
-        <ProdutosMain />
+        <ProdutosMain page={match.params.page} />
   
         <Rodape />
   
