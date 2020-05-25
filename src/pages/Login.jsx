@@ -1,6 +1,7 @@
 import React from 'react'
 import Menu from '../components/Menu'
 import Rodape from '../components/Rodape'
+import LoginConteudo from '../components/LoginConteudo'
 
 
 const Login = () => {
@@ -8,7 +9,7 @@ const Login = () => {
         <div>
         <Menu />
         
-        <h1 style={{textAlign: 'center', padding: '20% 0'}}>Login</h1>
+        <LoginConteudo />
   
         <Rodape />
   

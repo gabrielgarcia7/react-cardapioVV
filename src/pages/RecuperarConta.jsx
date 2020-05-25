@@ -1,15 +1,15 @@
 import React from 'react'
 import Menu from '../components/Menu'
 import Rodape from '../components/Rodape'
-import CadastroConteudo from '../components/CadastroConteudo'
+import RecuperarContaConteudo from '../components/RecuperarContaConteudo'
 
 
-const Register = () => {
+const RecuperarSenha = () => {
     return (
         <div>
         <Menu />
         
-        <CadastroConteudo />
+        <RecuperarContaConteudo />
   
         <Rodape />
   
@@ -17,4 +17,4 @@ const Register = () => {
     )
 }
 
-export default Register
+export default RecuperarSenha

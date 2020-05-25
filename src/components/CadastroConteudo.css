@@ -1,0 +1,11 @@
+
+.cadastroConteudo {
+
+    margin: auto 4em;
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row wrap; 
+    align-items: stretch;
+    justify-content: center;
+    flex-basis: 20%;
+}
