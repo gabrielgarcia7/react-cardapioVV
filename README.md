@@ -1,4 +1,4 @@
-Initial project for the Introduction to Web Development course. To see the live app [click here](https://gabriellorencetti.github.io/react-cardapioVV/).
+Initial project for the Introduction to Web Development course, which aims to be a menu of vegan dishes. To see the live app [click here](https://gabriellorencetti.github.io/react-cardapioVV/).
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
